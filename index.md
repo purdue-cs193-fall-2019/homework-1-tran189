@@ -1,3 +1,10 @@
+# Hoang M Tran's First CS193 Homework
+
+List of the things I like about CS193
+- (Comparatively) Small class size
+- PSO sessions
+- The instructors are _memelords_
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
